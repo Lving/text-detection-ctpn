@@ -10,4 +10,4 @@ dist/
 *.c[cod]
 *.so
 *.swp
-
+.idea
